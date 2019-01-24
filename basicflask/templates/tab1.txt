@@ -1,0 +1,15 @@
+<html>
+<body>
+<table border=1>
+<tr>
+<td>  jkjkj</td>
+<td>  kjkkl</td>
+</tr>
+<tr>
+<td>  jkjkj</td>
+<td>  kjkkl</td>
+</tr>
+
+</table>
+</body>
+</html>
